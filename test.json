@@ -1,0 +1,1 @@
+{"blocks":[{"t":"CodeBlock","c":[["fig:test",["mermaid"],[["caption","this is a test"]]],"sequenceDiagram\nA->> B: Query\nB->> C: Forward query\nNote right of C: Thinking...\nC->> B: Response\nB->> A: Forward response"]}],"pandoc-api-version":[1,17,0,5],"meta":{}}
